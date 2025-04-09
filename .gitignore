@@ -2,3 +2,4 @@
 *.tfstate
 *.tfvars
 __pycache__/
+terraform/gcp/.terraform.lock.hcl
